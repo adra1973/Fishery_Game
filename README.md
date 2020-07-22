@@ -1,11 +1,11 @@
 # Fishery_Game
 Program developed for calculation of a Nash Equilibrium in a Stochastic Dynamic Game
 
-### Remark:
+## Remark:
 
 This program is considered in the numerical section of the article: *Empirical approximation of Nash equilibria in finite Markov games with discounted payoffs*, whose authors are Alan D. Robles-Aguilar, David González-Sánchez and J. Adolfo Minjárez-Sosa (2020)
 
-## Description:
+### Description:
 
 Details about the underlying stochastic game can be found in the mentioned article.
 
