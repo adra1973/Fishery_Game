@@ -5,7 +5,7 @@ Program developed for calculation of a Nash Equilibrium in a Stochastic Dynamic 
 
 This program is used for the numerical calculation in Section 4 of the paper:
 
-[1] Alan D. Robles-Aguilar, David González-Sánchez and J. Adolfo Minjárez-Sosa (2020) *Empirical approximation of Nash equilibria in finite Markov games with discounted payoffs*.(Submited for publication).
+[1] Alan D. Robles-Aguilar, David González-Sánchez and J. Adolfo Minjárez-Sosa (2020) *Empirical approximation of Nash equilibria in finite Markov games with discounted payoffs*. (Submited for publication).
 
 ### Description:
 
